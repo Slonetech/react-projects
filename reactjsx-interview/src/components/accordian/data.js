@@ -18,6 +18,7 @@ const data = [
     id : 4,
     title : 'Section 4',
     content : 'Content 4'
-  }
-
+  },
 ]
+
+export default data;
